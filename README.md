@@ -1,5 +1,8 @@
 # E05-Input
 
+I did everything properly I believe, but still will not utilize user input.
+
+
 This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
